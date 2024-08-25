@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Spring Boot and Cloud Technologies**
 
-- 💬 Ask me about **java,linux,python**
+- 💬 Ask me about **Java,Linux,Python**
 
 - 📫 How to reach me **mahendranath123mp@gmail.com**
 
