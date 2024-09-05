@@ -3,13 +3,8 @@
 
 <!-- GIF Placement -->
 <div align="center">
-  <img height="300" src="https://camo.githubusercontent.com/4362d71e08b5550747df26fc056b4099636575ad191e03c84ef203cb679cb1a4/68747470733a2f2f692e696d6775722e636f6d2f4b5878306343782e676966"  />
+  <img src="https://camo.githubusercontent.com/e0e713d114d3c6f503b32db8d72ec0d0d000b61c7f9a6dae23f9047c705baf6c/68747470733a2f2f692e696d6775722e636f6d2f4b5878306343782e676966"/>
 </div>
-
-###
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/54114888/191053885-db59481e-dcdf-41bc-9f85-5a0f9b2ec6a1.gif" alt="Coding GIF" width="500"/>
-</p>
 
 - 🔭 I’m currently working on **Spring Boot and Cloud Technologies**
 
@@ -69,4 +64,3 @@
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahendranath123&show_icons=true&locale=en&layout=compact" alt="mahendranath123" />
 </p>
-
